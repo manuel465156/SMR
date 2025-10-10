@@ -22,3 +22,4 @@ Mientras la red eléctrica es estable alimenta a los equipos directamente, y sol
 - **Modo de corte de energía:**
     Si hay un corte total del suministro, el SAI conmuta instantáneamente a modo de batería para alimentar los equipos conectados
 ![[Esquema SAI Online.webp]]
+Felipe bjkfesn
